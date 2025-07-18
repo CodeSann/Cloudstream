@@ -236,3 +236,4 @@ class DutaMovie : MainAPI() {
         return URI(url).let { "${it.scheme}://${it.host}" }
     }
 }
+
