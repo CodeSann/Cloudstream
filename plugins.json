@@ -1,0 +1,23 @@
+ [
+    {
+        "iconUrl": "https://github.com/CodeSannz/IndoMovie/raw/refs/heads/master/Otakudesu/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "fileSize": 21053,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 16,
+        "internalName": "Otakudesu",
+        "description": "Otakudesu is the place to find the best anime you can find.",
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Otakudesu.cs3",
+        "name": "Otakudesu"
+    }
+]
