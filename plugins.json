@@ -21,6 +21,27 @@
         "name": "Animasu"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeindo.xyz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "fileSize": 15649,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 24,
+        "internalName": "AnimeIndo",
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/AnimeIndo.cs3",
+        "name": "AnimeIndo"
+    },
+    {
         "iconUrl": "https://github.com/CodeSannz/IndoMovie/raw/refs/heads/master/Otakudesu/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
