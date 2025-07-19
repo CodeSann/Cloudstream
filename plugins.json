@@ -1,0 +1,23 @@
+[
+    {
+        "iconUrl": "https://github.com/CodeSannz/IndoMovie/raw/refs/heads/master/Dutamovie/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSann/Cloudstream",
+        "fileSize": 16377,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "Dutamovie",
+        "description": "DutaMovie",
+        "url": "https://raw.githubusercontent.com/CodeSann/Cloudstream/builds/Dutamovie.cs3",
+        "name": "Dutamovie"
+    }
+]
