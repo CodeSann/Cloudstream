@@ -1,5 +1,26 @@
  [
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animasu.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "fileSize": 23585,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 13,
+        "internalName": "Animasu",
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Animasu.cs3",
+        "name": "Animasu"
+    },
+    {
         "iconUrl": "https://github.com/CodeSannz/IndoMovie/raw/refs/heads/master/Otakudesu/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
