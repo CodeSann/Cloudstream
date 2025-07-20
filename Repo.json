@@ -1,0 +1,8 @@
+{
+  "name": "Sann Movies",
+  "description": "Sann Repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/CodeSann/Cloudstream/refs/heads/master/Sann.json"
+  ]
+}
