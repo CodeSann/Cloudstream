@@ -1,1 +1,23 @@
-
+[
+    {
+        "iconUrl": "https://github.com/CodeSannz/IndoMovie/raw/refs/heads/master/Ngefilm/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSannz/IndoMovie",
+        "fileSize": 19879,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Ngefilm",
+        "description": "Ngefilm",
+        "url": "https://raw.githubusercontent.com/CodeSann/Cloudstream/builds/Ngefilm.cs3",
+        "name": "Ngefilm"
+    }
+]
