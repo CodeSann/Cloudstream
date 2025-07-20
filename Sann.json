@@ -39,6 +39,26 @@
         "internalName": "Nimegami",
         "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Nimegami.cs3",
         "name": "Nimegami"
+    },
+    {
+        "iconUrl": "https://github.com/CodeSann/CloudStreamz/raw/refs/heads/main/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 21183,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "DramaidProvider",
+        "description": "Include: Oppadrama",
+        "url": "https://raw.githubusercontent.com/CodeSann/CloudStreamz/builds/DramaidProvider.cs3",
+        "name": "DramaidProvider"
     }
 ]
 
