@@ -170,14 +170,14 @@
         "name": "Coflix"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.asia&sz=%size%",
+        "iconUrl": "https://github.com/CodeSann/CloudStreamz/raw/refs/heads/main/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "fileSize": 21183,
         "status": 1,
         "language": "id",
         "authors": [
-            "Hexated"
+            "CodeSannz"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -186,7 +186,7 @@
         "version": 10,
         "internalName": "DramaidProvider",
         "description": "Include: Oppadrama",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/DramaidProvider.cs3",
+        "url": "https://raw.githubusercontent.com/CodeSann/CloudStreamz/builds/DramaidProvider.cs3",
         "name": "DramaidProvider"
     },
     {
@@ -528,6 +528,26 @@
         "description": "Pencurimovie ",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pencurimovie.cs3",
         "name": "Pencurimovie"
+    },
+    {
+        "iconUrl": "https://github.com/CodeSann/CloudStreamz/raw/refs/heads/main/icons.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 16074,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 23,
+        "internalName": "Samehadaku",
+        "url": "https://raw.githubusercontent.com/CodeSann/CloudStreamz/builds/Samehadaku.cs3",
+        "name": "Samehadaku"
     },
     {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
