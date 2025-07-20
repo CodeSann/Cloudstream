@@ -19,6 +19,26 @@
         "description": "Ngefilm",
         "url": "https://raw.githubusercontent.com/CodeSann/CloudStreamz/builds/Ngefilm.cs3",
         "name": "Ngefilm"
+     },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 20628,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 13,
+        "internalName": "Nimegami",
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Nimegami.cs3",
+        "name": "Nimegami"
     }
 ]
 
