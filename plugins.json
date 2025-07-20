@@ -363,21 +363,21 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 20496,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 20628,
         "status": 1,
         "language": "id",
         "authors": [
-            "Hexated"
+            "CodeSannz"
         ],
         "tvTypes": [
             "AnimeMovie",
             "Anime",
             "OVA"
         ],
-        "version": 11,
+        "version": 13,
         "internalName": "Nimegami",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Nimegami.cs3",
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Nimegami.cs3",
         "name": "Nimegami"
     },
     {
@@ -404,7 +404,7 @@
     {
         "iconUrl": "https://github.com/CodeSannz/IndoMovie/raw/refs/heads/master/Otakudesu/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "fileSize": 21053,
         "status": 1,
         "language": "id",
